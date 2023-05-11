@@ -34,7 +34,7 @@
     <table>
     <tr><th colspan="2"><b>Contact Me</b></th></tr>
         <tr><td><b>✉</b></td><td><b><a href="mailto:rafaelruddy@gmail.com">rafaelruddy@gmail.com</a></b></td></tr>
-        <tr><td><b>Linkedin</b></td><td><b><a href="https://www.linkedin.com/in/rafael-ruddy-6a2254237/">Rafael Ruddy</a></b></td></tr>
+        <tr><td><b>Linkedin</b></td><td><b><a href="https://www.linkedin.com/in/rafaelruddy/">Rafael Ruddy</a></b></td></tr>
         <tr><td><b>Instagram</b></td><td><b><a href="https://www.instagram.com/rafaelruddy_/">@rafaelruddy_</a></b></td></tr>
     </table>
     
