@@ -1,50 +1,66 @@
- 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<h1 >👋 Hey there! I'm Rafael Ruddy</h1>
+<h3 >I’m passionate about building back-end systems that are clean, scalable, and built to last.</h3>
 
-#  <b>👋 Hey, my name is Rafael Ruddy and I'm a developer focused mainly on Back-end.</b>
+---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
+## 🚀 Tech Stack & Tools I Use Daily
 
-## **🔨 My Stack**
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) <!-- C# -->
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=whitee) <!-- DOTNET -->
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <!-- JS -->
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) <!-- NODE -->
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) <!-- MYSQL -->
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) <!-- MongoDB -->
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) <!-- SQLSERVER -->
+<div>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<!-- MAIN STACK -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 
-## **💻 GitHub Profile Statistics**
- 
-<img alt="rafaelruddy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rafaelruddy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<img alt="rafaelruddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelruddy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<!-- LANGUAGES -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<b>Note:</b> This is just a metric of language of my repositories. This don't reflect on my skills on certain languages.
+<!-- FRAMEWORKS & PLATFORMS -->
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<!-- DATABASES -->
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-## **🥇 Curiosities about me :)** <h3>
-* I started coding at the age of 15.
-* My first programming language was Lua. 🇧🇷
-* I speak portuguese, english and a bit of french.
+<!-- TOOLS -->
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
 
-## **✉ Contact Information** <h3>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rafaelruddy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelruddy&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180px"/>
+</div>
+
+<sub><b>⚠️ Note:</b> These stats are based on my public repositories and don't fully reflect my proficiency in each language.</sub>
+
+---
+
+## 🧠 About Me
+
+- 👨‍💻 I started programming when I was 15 years old.
+- 💡 My first programming language was Lua — I got into it by modding games and creating custom scripts! 🇧🇷
+- 🌍 I speak Portuguese (native), English (fluent), and French (intermediate).
+
+---
+
+## 📬 Contact Me
+
 <table>
-    <tr><th colspan="2"><b>Contact Me</b></th></tr>
-        <tr><td><b>Email</b></td><td><b><a href="mailto:rafaelruddy@gmail.com">rafaelruddy@gmail.com</a></b></td></tr>
-        <tr><td><b>Linkedin</b></td><td><b><a href="https://www.linkedin.com/in/rafaelruddy/">Rafael Ruddy</a></b></td></tr>
-        <tr><td><b>Instagram</b></td><td><b><a href="https://www.instagram.com/rafaelruddy_/">@rafaelruddy_</a></b></td></tr>
+    <tr><th>📨 Email</th><td><a href="mailto:rafaelruddy@gmail.com"><b>rafaelruddy@gmail.com</b></a></td></tr>
+    <tr><th>💼 LinkedIn</th><td><a href="https://www.linkedin.com/in/rafaelruddy/"><b>Rafael Ruddy</b></a></td></tr>
+    <tr><th>📸 Instagram</th><td><a href="https://www.instagram.com/rafaelruddy_/"><b>@rafaelruddy_</b></a></td></tr>
 </table>
 
+---
 
- 
-
-
+<p align="center"><i>“You're not here to write code. You're here to solve problems.”<br>– The Pragmatic Programmer</i></p>
